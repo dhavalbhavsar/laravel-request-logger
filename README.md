@@ -19,10 +19,10 @@ Added extra part `exclude` in config file. Now in these version we can also excl
 
 ### Composer
 
-Add `timeout2x/laravel-request-logger` to the "require" section of your `composer.json` file.
+Add `dhavalbhavsar/laravel-request-logger` to the "require" section of your `composer.json` file.
 
 ``` bash
-composer require timeout2x/laravel-request-logger
+composer require dhavalbhavsar/laravel-request-logger
 ```
 
 Run `composer update` to get the latest version of the package.
