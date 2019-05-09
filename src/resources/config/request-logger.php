@@ -31,7 +31,6 @@ return [
         'method' => [
 
             //Like GET,POST,
-            'get'
 
         ],
 
